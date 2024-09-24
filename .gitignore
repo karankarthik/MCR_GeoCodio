@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Log files
+*.log
+geocoding_log.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Output files
+output_geocoded_results.json
+
+# IDE settings
+.idea/
+.vscode/
